@@ -72,7 +72,7 @@ audioElement.addEventListener('timeupdate', () => {
 
     if (progress == 100 ) {
 
-        if(songIndex < 6){
+        if(songIndex < 7){
 
             console.log(songIndex);
 
