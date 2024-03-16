@@ -251,7 +251,7 @@ Array.from(document.getElementsByClassName('songItem')).forEach((element, e) => 
 
 // next and previous buttons related java script
 document.getElementById('next').addEventListener('click', () => {
-    if (songIndex >= 6) {
+    if (songIndex >= 7) {
         songIndex = 0;
     }
 
