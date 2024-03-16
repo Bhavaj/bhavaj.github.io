@@ -28,6 +28,7 @@ let songs = [
     { songName: "7 years old", filePath: "songs/5.mp3", coverPath: "covers/cover5.jpg" },
     { songName: "Let me go", filePath: "songs/6.mp3", coverPath: "covers/cover6.jpg" },
     { songName: "Closer", filePath: "songs/7.mp3", coverPath: "covers/cover7.jpg" },
+    { songName: "Na Na Na Na", filePath: "songs/8.mp3", coverPath: "covers/cover8.jpg" },
 ]
 
 songItem.forEach((element, i) => {
